@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Current research
+description:
 nav: true
 nav_order: 2
 ---
@@ -10,10 +10,12 @@ nav_order: 2
 
 ### Working Papers
 
-**Product Development and Platform Design**  (Coming soon!)
+**Product Development and Platform Design**
 
 <ins>Wei Lu</ins>, Avi Goldfarb, and Nitin Mehta
+
 * **_Job Market Paper_**
+
 * _Recipient of 2021 ISMS Doctoral Dissertation Award_
 
 **Peer Effects from Friends and Strangers: Evidence from Random Matchmaking in an Online Game** 
@@ -23,15 +25,10 @@ nav_order: 2
 
 * Extended Abstract at [EC'22](https://ec22.sigecom.org/program/accepted-papers/).
 
-> **Abstract**: The product adoption decisions of friends and strangers can both strongly influence consumers' purchase behaviour, but their importance relative to each other is unknown. In this paper, we use novel data from an online gaming app to quantify the relative magnitudes of these social interaction (peer) effects from friends and strangers in the same setting. Our empirical strategy leverages the game's quasi-random matchmaking system to identify the causal effect of observed adoptions on in-game purchasing. We find that the marginal effect of friends' product adoptions is almost twice as large as the marginal effect of strangers' product adoptions, and that the two types of peer effects are substitutes. Our results have managerial implications for optimal product seeding, and we write and estimate a network diffusion model to evaluate alternative seeding strategies that leverage peer effects from friends versus strangers. Finally, we provide evidence that although both types of peer effect increase awareness of the product, observing friends' adoptions also generates a mere exposure effect.
-
 
 **Increasing App Engagement with Peak-End Effects**
 
 * _Recipient of BEAR/BI-Org PhD Research Award_, with Daniel Goetz
-
-<!-- **Abstract**:
-> The peak-end effect in consumer psychology predicts that individuals will re-engage with an activity sooner if the activity ends with a relatively positive experience. Using millions of unique usage sessions from two online apps, we document that an exogenously allocated positive experience makes consumers more likely to end a usage session with the app, even as it shortens the duration until they begin their next usage session. Our results have implications for product design, as leveraging the peak-end effect induces tradeoffs in app engagement. -->
 
 **Evaluation Inflation: Consumers Give Higher Product Ratings on Transaction Sites than Non-transaction Sites**
 

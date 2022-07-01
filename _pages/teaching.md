@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Coursed I TAed for
+title: Teaching
+description:
 nav: true
 nav_order: 3
 ---
 
-I have been working as a teaching assistant during my PhD for various courses:
+I have been working as a teaching assistant and a project coach during my Ph.D. for a variety of courses at both undergraduate and graduate levels:
 
 _Undergraduate_
 * RSM250 Principles of Marketing - Zachary Zhong
@@ -15,7 +15,7 @@ _Undergraduate_
 * MGT355 Pricing - Matthew Osborne
 
 _Master of Management Analytics_
-* RSM8432 Management Analytics Practicum - Dmitry Krass
+* RSM8432 Management Analytics Practicum (Project Coach) - Dmitry Krass
 * RSM8522 Analytics for Marketing Strategy - Nitin Mehta
 * MMI1020 Introduction to Big Data Analysis - Daniel Goetz
 
