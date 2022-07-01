@@ -19,7 +19,7 @@ nav_order: 2
 * _Recipient of 2021 ISMS Doctoral Dissertation Award_
 
 **Peer Effects from Friends and Strangers: Evidence from Random Matchmaking in an Online Game** 
-[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116806)
+[[Working Paper at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116806)
 
 * _Recipient of TD MDAL Research Grant_, with Daniel Goetz 
 
