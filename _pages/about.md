@@ -29,4 +29,4 @@ My research interests are the **Economics of Platforms and Algorithms**. My curr
 I am on the academic job market this Summer/Fall, 2022.
 
 
-[**Curriculum Vitae**](/assets/pdf/CV_Wei_Lu20220630.pdf)
+[Curriculum Vitae](/assets/pdf/CV_Wei_Lu20220630.pdf)
