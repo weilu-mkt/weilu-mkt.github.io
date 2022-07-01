@@ -6,7 +6,7 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
-  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 hr {
@@ -118,6 +118,7 @@ blockquote {
 }
 
 .post-description {
+  margin-left: 1rem;
   margin-bottom: 2rem;
   font-size: 0.875rem;
   a {
