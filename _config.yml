@@ -78,8 +78,8 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
-
-ga4_analytics: G-VV2JL9PJ92 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
+ga4_analytics: G-VV2JL9PJ92 
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
