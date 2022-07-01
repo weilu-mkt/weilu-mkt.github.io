@@ -22,7 +22,7 @@ Welcome to my website! I am a 5th year Ph.D. Candidate in Quantitative Marketing
 As an empirical researcher, I am interested in the **Economics of Platforms and Algorithms**. I am also enthusiastic about using machine learning/deep learning methods to gain insights from unstructured data, and incorporate this knowledge into structural/reduced-form frameworks.
 
 
-[Currivulum Vitae](/assets/CV_Wei_Lu20220630.pdf)
+[Currivulum Vitae](/assets/pdf/CV_Wei_Lu20220630.pdf)
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
