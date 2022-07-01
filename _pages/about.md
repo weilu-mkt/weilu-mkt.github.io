@@ -9,10 +9,10 @@ profile:
   image: wei.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Address: 105 St George St, Toronto, ON M5S 3E6</p>
-    <p>Email: [wei.lu@rotman.utoronto.ca](mailto:wei.lu@rotman.utoronto.ca)</p>
-    <p>[weilu.arthur@gmail.com](mailto:weilu.arthur@gmail.com)</p>
-    <p>[Rotman Personal Page](https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Lu-Wei)</p>
+    Address: 105 St George St, Toronto, ON M5S 3E6
+    Email: [wei.lu@rotman.utoronto.ca](mailto:wei.lu@rotman.utoronto.ca)
+    [weilu.arthur@gmail.com](mailto:weilu.arthur@gmail.com)
+    [Rotman Personal Page](https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Lu-Wei)
     
 
 news: false  # includes a list of news items
@@ -24,4 +24,4 @@ Welcome to my website! I am a 5th year Ph.D. Candidate in Quantitative Marketing
 My research interests are **Economics of Platforms and Algorithms**. My current projects leveraged machine learning/deep learning methods to gain insights from unstructured data, and incorporated this knowledge into structural/reduced-form frameworks.
 
 
-[Currivulum Vitae](/assets/pdf/CV_Wei_Lu20220630.pdf)
+[Curriculum Vitae](/assets/pdf/CV_Wei_Lu20220630.pdf)
