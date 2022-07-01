@@ -2,16 +2,19 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student in Marketing. Job market candidate. Husband & Dad.
+subtitle: PhD Candidate in Marketing. On the Job Market. Empirical Researcher, Husband & Dad.
 
 profile:
   align: left
   image: wei.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    Address: 105 St George St, Toronto, ON M5S 3E6
+    105 St George St, Toronto, ON M5S 3E6
+
     Email: <a href = "mailto:wei.lu@rotman.utoronto.ca">wei.lu@rotman.utoronto.ca</a>
+
     <a href = "mailto:weilu.arthur@gmail.com">weilu.arthur@gmail.com</a>
+
     <a href = "https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Lu-Wei">Rotman Personal Page</a>
 
 news: false  # includes a list of news items
