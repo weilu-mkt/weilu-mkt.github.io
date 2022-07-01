@@ -11,11 +11,12 @@ profile:
   address: >
     105 St George St, Toronto, ON M5S 3E6
 
-    Email: <a href = "mailto:wei.lu@rotman.utoronto.ca">wei.lu@rotman.utoronto.ca</a>
+    Email: <p><a href = "mailto:wei.lu@rotman.utoronto.ca">wei.lu@rotman.utoronto.ca</a></p>
 
-    <a href = "mailto:weilu.arthur@gmail.com">weilu.arthur@gmail.com</a>
+    <p><a href = "mailto:weilu.arthur@gmail.com">weilu.arthur@gmail.com</a></p>
 
-    <a href = "https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Lu-Wei">Rotman Personal Page</a>
+
+    <p><a href = "https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Lu-Wei">Rotman Personal Page</a></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
