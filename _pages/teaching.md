@@ -9,15 +9,15 @@ nav_order: 3
 
 I have been working as a teaching assistant and a project coach during my Ph.D. for a variety of courses at both undergraduate and graduate levels:
 
-_Undergraduate_
+**Undergraduate**
 * RSM250 Principles of Marketing - Zachary Zhong
 * RSM353 Consumer Behaviour - Scott Hawkins
 * MGT355 Pricing - Matthew Osborne
 
-_Master of Management Analytics_
+**Master of Management Analytics**
 * RSM8432 Management Analytics Practicum (Project Coach) - Dmitry Krass
 * RSM8522 Analytics for Marketing Strategy - Nitin Mehta
 * MMI1020 Introduction to Big Data Analysis - Daniel Goetz
 
-_Master of Business Administration_
+**Master of Business Administration**
 * RSM1282 Statistics for Management - Sridhar Moorthy
