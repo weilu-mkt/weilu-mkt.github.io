@@ -100,7 +100,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     p {
       display: inline-block;
       margin: 0;
@@ -110,7 +110,8 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 35%;
+    margin-right: 1rem;
+    width: 40%;
     .address {
       p { display: block; }
     }
@@ -118,7 +119,6 @@ blockquote {
 }
 
 .post-description {
-  margin-left: 1rem;
   margin-bottom: 2rem;
   font-size: 0.875rem;
   a {
