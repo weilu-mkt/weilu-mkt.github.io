@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     Contact:
-    <p><a href = "https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Lu-Wei">Rotman Personal Page</a></p>
+    
     <p>105 St George St, Toronto, ON M5S 3E6</p>
     <p><a href = "mailto:wei.lu@rotman.utoronto.ca">wei.lu@rotman.utoronto.ca</a></p>
 
@@ -23,6 +23,5 @@ Welcome to my website! I am a 5th year Ph.D. Candidate in Quantitative Marketing
 My research interests are the **Economics of Platforms and Algorithms**. My current projects leveraged machine learning/deep learning methods to gain insights from unstructured data, and incorporated this knowledge into structural/reduced-form frameworks.
 
 I am on the academic job market Summer/Fall, 2022.
-
 
 [Curriculum Vitae](/assets/pdf/CV_Wei_Lu20220630.pdf)
