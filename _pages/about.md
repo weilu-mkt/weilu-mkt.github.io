@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: # PhD Candidate in Marketing. On the Job Market. Empirical Researcher, Husband & Dad.
+subtitle: PhD Candidate in Marketing. On the Job Market. Empirical Researcher, Husband & Dad.
 
 profile:
   align: left
