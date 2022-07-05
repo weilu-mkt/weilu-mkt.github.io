@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Marketing. On the Job Market. Empirical Researcher, Husband & Dad.
+subtitle: Ph.D. Candidate in Marketing. On the Job Market. Empirical Researcher, Husband & Dad.
 
 profile:
   align: left
@@ -22,6 +22,6 @@ Welcome to my website! I am a 5th year Ph.D. Candidate in Quantitative Marketing
 
 My research interests are the **Economics of Platforms and Algorithms**. My current projects leveraged machine learning/deep learning methods to gain insights from unstructured data, and incorporated this knowledge into structural/reduced-form frameworks.
 
-I am on the academic job market Summer/Fall, 2022.
+I am on the academic job market this Summer/Fall, 2022.
 
 [Curriculum Vitae](/assets/pdf/CV_Wei_Lu20220630.pdf)
