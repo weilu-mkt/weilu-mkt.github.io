@@ -25,6 +25,7 @@ nav_order: 2
 
 **Evaluation Inflation: Consumers Give Higher Product Ratings on Transaction Sites than Non-transaction Sites** (with Claire Tsai and Ying Zeng)
 * Recipient of TD MDAL Research Grant
+* Under review at Journal of Marketing Research
 
 ### Work in Progress
 
