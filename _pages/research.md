@@ -17,4 +17,4 @@ nav_order: 2
 
 **Increasing App Engagement with Peak-End Effects** (with Daniel Goetz)
 
-**Evaluation Inflation: Consumers Give Higher Product Ratings on Transaction Sites than Non-transaction Sites** (with Claire Tsai and Ying Zeng) _Under review at Journal of Marketing Research_
+**Evaluation Inflation: Consumers Give Higher Product Ratings on Transaction Sites than Non-transaction Sites** (with Claire Tsai and Ying Zeng) _Revise and Resubmit at Journal of Marketing Research_
