@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome to my website! I am a 5th-year Ph.D. Candidate in Quantitative Marketing at <a href='https://www.rotman.utoronto.ca/'>Rotman School of Management</a>, <a href='https://www.utoronto.ca/'>University of Toronto</a>, and my supervisor is <a href='https://www.avigoldfarb.com/'>Avi Goldfarb</a>. 
 
-My research interests are the **Economics of Platforms and Algorithms**. My current projects leveraged machine learning/deep learning methods to gain insights from unstructured data and incorporated this knowledge into structural/reduced-form frameworks.
+My research interests are the **Economics of Platforms and Algorithms**. I have implemented a variety of empirical methods, such as causal inference, structural modeling, and machine learning/deep learning methods in my research, and I have actively collaborated with colleagues in consumer behavior track and researchers in med/law schools.
 
 I am on the academic job market this Summer/Fall of 2022.
 
