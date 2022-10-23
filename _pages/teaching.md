@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 I have been working as a teaching assistant and a project coach during my Ph.D. for a variety of courses at both undergraduate and graduate levels:
