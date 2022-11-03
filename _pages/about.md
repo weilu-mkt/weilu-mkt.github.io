@@ -22,7 +22,7 @@ Welcome to my website! I am a 6th-year Ph.D. Candidate in Quantitative Marketing
 
 <!-- and my supervisor is <a href='https://www.avigoldfarb.com/'>Avi Goldfarb</a>.  -->
 
-My research interests are the **Economics of Platforms and Algorithms**. I have implemented a variety of empirical methods, such as causal inference, structural modeling, and machine learning/deep learning methods in my research, and I have actively collaborated with colleagues in consumer behavior track and researchers in med/law schools.
+My research interests are the **Economics of Platforms and Algorithms**. I have implemented a variety of empirical methods, such as causal inference, structural modeling, and machine learning/deep learning methods in my research, and I have actively collaborated with colleagues in consumer behavior track and researchers in med/law schools on interdisciplinary projects.
 
 I am on the academic job market this Fall of 2022.
 
