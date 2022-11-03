@@ -26,4 +26,4 @@ My research interests are the **Economics of Platforms and Algorithms**. I have 
 
 I am on the academic job market this Fall of 2022.
 
-[Curriculum Vitae](/assets/pdf/CV_20220829.pdf)
+[Curriculum Vitae](/assets/pdf/CV_20221101.pdf)
