@@ -24,6 +24,6 @@ Welcome to my website! I am a 6th-year Ph.D. Candidate in Quantitative Marketing
 
 My research interests are the **Economics of Platforms and Algorithms**. I implement a variety of empirical methods such as causal inference, structural modeling, and machine learning/deep learning in my research to understand consumer's online purchase and product usage behavior as well as platform pricing policy and innovation. I have also collaborated with researchers in consumer behavior, medicine and law on various interdisciplinary projects.
 
-I am joining CUNY Baruch College as an Assistant Professor of Marketing starting August 2023.
+I am joining Baruch College as an Assistant Professor of Marketing starting August 2023.
 
 [Curriculum Vitae](/assets/pdf/CV_20221101.pdf)
