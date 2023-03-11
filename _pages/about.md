@@ -18,12 +18,12 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am a 6th-year Ph.D. Candidate in Quantitative Marketing at <a href='https://www.rotman.utoronto.ca/'>Rotman School of Management</a>, <a href='https://www.utoronto.ca/'>University of Toronto</a>.
+Welcome to my website! I am a 6th-year Ph.D. Candidate in Quantitative Marketing at <a href='https://www.rotman.utoronto.ca/'>Rotman School of Management</a>, <a href='https://www.utoronto.ca/'>University of Toronto</a>. 
 
 <!-- and my supervisor is <a href='https://www.avigoldfarb.com/'>Avi Goldfarb</a>.  -->
 
-My research interests are the **Economics of Platforms and Algorithms**. I have implemented a variety of empirical methods, such as causal inference, structural modeling, and machine learning/deep learning methods in my research, and I have actively collaborated with colleagues in consumer behavior track and researchers in med/law schools on interdisciplinary projects.
+My research interests are the **Economics of Platforms and Algorithms**. I implement a variety of empirical methods such as causal inference, structural modeling, and machine learning/deep learning in my research to understand consumer's online purchase and product usage behavior as well as platform pricing policy and innovation. I have also collaborated with researchers in consumer behavior, medicine and law on various interdisciplinary projects.
 
-I will join CUNY Baruch College as an Assistant Professor of Marketing starting August 2023.
+I am joining CUNY Baruch College as an Assistant Professor of Marketing starting August 2023.
 
 [Curriculum Vitae](/assets/pdf/CV_20221101.pdf)
