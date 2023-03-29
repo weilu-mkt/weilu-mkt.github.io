@@ -26,4 +26,4 @@ My research interests are the **Economics of Platforms and Algorithms**. I imple
 
 I am joining <a href='https://www.baruch.cuny.edu/'>Baruch College</a> as an Assistant Professor of Marketing starting August 2023.
 
-[Curriculum Vitae](/assets/pdf/CV_20221101.pdf)
+[Curriculum Vitae](/assets/pdf/CV_20230329.pdf)
