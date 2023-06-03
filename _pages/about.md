@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Quant Marketing Ph.D. Candidate. Empirical Researcher, Husband & Dad.
+subtitle: Empirical Researcher, Husband & Dad.
 
 profile:
   align: left
