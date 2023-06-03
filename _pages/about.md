@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Empirical Researcher, Husband & Dad.
+subtitle: Empirical Researcher in Digital Marketing, Husband & Dad.
 
 profile:
   align: left
