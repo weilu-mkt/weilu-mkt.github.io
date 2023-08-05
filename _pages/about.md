@@ -18,7 +18,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am an incoming Assistant Professor of Marketing joining <a href='https://www.baruch.cuny.edu/'>Baruch College, City University of New York</a> this August 2023. My research interests are the **Economics of Platforms and Algorithms** and I implement a variety of empirical methods such as causal inference, structural modeling, and machine learning/deep learning in my research to understand consumer's online purchase and product engagement, platform policy and innovation. I have also collaborated with researchers in consumer behavior, medicine and law on various interdisciplinary projects.
+Welcome to my website! I am an Assistant Professor of Marketing at <a href='https://www.baruch.cuny.edu/'>Baruch College, City University of New York</a>. My research interests are **Digital Marketing and Platform Economics** and I implement a variety of empirical methods such as causal inference, structural modeling, and machine learning/deep learning in my research to understand consumer's online purchase and product engagement, platform policy and innovation. 
 
 <!-- and my supervisor is <a href='https://www.avigoldfarb.com/'>Avi Goldfarb</a>.  -->
 
