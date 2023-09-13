@@ -11,8 +11,8 @@ profile:
   address: >
     Contact:
     
-    <p>105 St George St, Toronto, ON M5S 3E6</p>
-    <p><a href = "mailto:wei.lu@rotman.utoronto.ca">wei.lu@rotman.utoronto.ca</a></p>
+    <p>55 Lexington Avenue, New York, NY 10010</p>
+    <p><a href = "mailto:wei.lu@baruch.cuny.edu">wei.lu@baruch.cuny.edu</a></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
