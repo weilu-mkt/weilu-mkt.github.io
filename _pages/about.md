@@ -24,4 +24,4 @@ Welcome to my website! I am an Assistant Professor of Marketing at <a href='http
 
 
 
-[Curriculum Vitae](/assets/pdf/CV_20230329.pdf)
+[Curriculum Vitae](/assets/pdf/CV_20231109.pdf)
