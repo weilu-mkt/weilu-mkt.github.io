@@ -7,7 +7,12 @@ nav: false
 nav_order: 2
 ---
 
-I have been working as a teaching assistant and a project coach during my Ph.D. for a variety of courses at both undergraduate and graduate levels:
+Instructor at Baruch:
+
+**Undergraduate**
+* MKT3620 Digital Transformation of Marketing
+
+Previous teaching experience as a teaching assistant at Rotman:
 
 **Undergraduate**
 * RSM250 Principles of Marketing - Zachary Zhong
