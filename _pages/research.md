@@ -99,14 +99,43 @@ nav_order: 1
 </div>
 
 <style>
-.paper-entry {
+/* LIGHT MODE */
+html[data-theme="light"] .paper-entry {
   margin-bottom: 1.5em;
   padding: 1em;
-  border: 1px solid var(--border-color, #ddd);
+  border: 1px solid #ddd;
   border-radius: 0.5em;
-  background-color: var(--paper-bg, #f9f9f9);
+  background-color: #f9f9f9;
+  color: #333;
+}
+html[data-theme="light"] .paper-link {
+  color: #1a73e8;
+}
+html[data-theme="light"] .paper-description,
+html[data-theme="light"] .coauthors,
+html[data-theme="light"] .media-mention {
+  color: #555;
 }
 
+/* DARK MODE */
+html[data-theme="dark"] .paper-entry {
+  margin-bottom: 1.5em;
+  padding: 1em;
+  border: 1px solid #444;
+  border-radius: 0.5em;
+  background-color: #1e1e1e;
+  color: #ccc;
+}
+html[data-theme="dark"] .paper-link {
+  color: #8ab4f8;
+}
+html[data-theme="dark"] .paper-description,
+html[data-theme="dark"] .coauthors,
+html[data-theme="dark"] .media-mention {
+  color: #ccc;
+}
+
+/* Shared styles */
 .paper-header {
   display: flex;
   justify-content: space-between;
@@ -130,7 +159,6 @@ nav_order: 1
 .paper-link {
   display: inline-block;
   margin-top: 0.5em;
-  color: var(--link-color, #1a73e8);
   font-weight: bold;
   text-decoration: none;
 }
@@ -141,16 +169,6 @@ nav_order: 1
   display: block;
   margin-top: 0.3em;
   font-size: 0.95em;
-  color: var(--text-color, #555);
-}
-
-/* Override for dark mode */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --paper-bg: #1e1e1e;
-    --border-color: #444;
-    --text-color: #ccc;
-    --link-color: #8ab4f8;
-  }
 }
 </style>
+
