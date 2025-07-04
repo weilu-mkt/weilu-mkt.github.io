@@ -18,11 +18,15 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am an Assistant Professor of Marketing at <a href='https://www.baruch.cuny.edu/'>Baruch College, City University of New York</a>, where I study how digital platforms shape consumer behavior, innovation, and market outcomes. 
+Welcome to my website! I am an Assistant Professor of Marketing at <a href='https://www.baruch.cuny.edu/'>Baruch College, City University of New York (CUNY)</a>. 
 
-My research lies at the intersection of **digital marketing**, **platform economics**, and **algorithmic design**, and I draw on methods from causal inference, structural modeling, and machine learning to address questions of both academic significance and real-world relevance. 
+My research lies at the intersection of **digital marketing** and **platform economics**. I draw on methods from causal inference, structural modeling, and machine learning to address questions of both academic significance and real-world relevance. 
 
-Current projects examine how platforms influence product diffusion, how fairness and engagement trade off in algorithmic design, and how large language models can be aligned with human preferences to improve policy and consumer decision-making. My work aims to generate actionable insights for platform strategy, consumer protection, and responsible AI governance.
+Current projects examine:
+- How platforms influence product diffusion by leveraging peer effects from strangers  
+- How algorithmic design balances fairness and user engagement  
+- How commission structures can incentivize product innovation and entry  
+- How economic theory can guide the alignment of large language models with rational and moral preferences  
+- …and more to come!
 
-
-[Curriculum Vitae](/assets/pdf/CV_20250525.pdf)
+View my latest [Curriculum Vitae](/assets/pdf/CV_20250704.pdf)
