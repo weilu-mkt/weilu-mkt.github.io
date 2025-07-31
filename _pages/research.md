@@ -43,18 +43,16 @@ nav_order: 1
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Product Development and Platform Fees Design</strong>
-    <span class="tag tag-rnr">Revise and Resubmit at Management Science</span>
   </div>
-  <span class="coauthors">Wei Lu, Avi Goldfarb, Nitin Mehta (2025)</span>
+  <span class="coauthors">Wei Lu, Avi Goldfarb, Nitin Mehta (2025)</span><span class="tag tag-rnr">Revise and Resubmit at Management Science</span>
   <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617897" target="_blank">[SSRN Link]</a>
 </div>
 
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Absent Ties and Product Diffusion: Evidence from Microtransactions</strong>
-    <span class="tag tag-rnr">Revise and Resubmit at Journal of Marketing Research</span>
   </div>
-  <span class="coauthors">Daniel Goetz, Wei Lu (2025)</span>
+  <span class="coauthors">Daniel Goetz, Wei Lu (2025)</span><span class="tag tag-rnr">Revise and Resubmit at Journal of Marketing Research</span>
   <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116806" target="_blank">[SSRN Link]</a>
   <a class="paper-link" href="https://dl.acm.org/doi/abs/10.1145/3490486.3538343" target="_blank">[Extended Abstract at EC '22]</a>
 </div>
@@ -63,18 +61,17 @@ nav_order: 1
 <div class="paper-entry">
   <div class="paper-header">
     <strong>The Rebound Effect of Forced Changes on Food Purchasing Behaviors and Nutrition Disparities Caused by the COVID-19 Pandemic</strong>
-    <span class="tag tag-rnr">Revise and Resubmit at Nature Human Behaviour</span>
+    
   </div>
-  <span class="coauthors">Guanlan Hu, Wei Lu, David Soberman, Mary L'Abbé (2025)</span>
+  <span class="coauthors">Guanlan Hu, Wei Lu, David Soberman, Mary L'Abbé (2025)</span><span class="tag tag-rnr">Revise and Resubmit at Nature Human Behaviour</span>
   <span class="media-mention">Media: National Post</span>
 </div>
 
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Evaluation Inflation: Consumers Give Higher Product Ratings on Transaction Sites than Non-transaction Sites</strong>
-    <span class="tag tag-rnr">Invited for Resubmission at Journal of Marketing Research</span>
   </div>
-  <span class="coauthors">Zeng Ying, Claire I. Tsai, Wei Lu (2025)</span>
+  <span class="coauthors">Zeng Ying, Claire I. Tsai, Wei Lu (2025)</span><span class="tag tag-rnr">Invited for Resubmission at Journal of Marketing Research</span>
   <a class="paper-link" href="https://www.proquest.com/openview/815c030dc533d98ae3bf43e1eda0d906/1?cbl=30304&pq-origsite=gscholar" target="_blank">[Extended Abstract at Advances in Consumer Research]</a>
 </div>
 
