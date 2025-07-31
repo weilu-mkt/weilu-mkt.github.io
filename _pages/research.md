@@ -3,28 +3,28 @@ layout: page
 permalink: /research/
 title: Research
 description:
-nav: false
+nav: true
 nav_order: 1
 ---
 
 
 
-## 🧾 Publications
+## Publications
 
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Motivated Reasoning in the Field: Polarization of Prose, Precedent, and Policy in US Circuit Courts, 1891–2013</strong>
-    <span class="tag tag-published">Published</span>
+    <span class="tag tag-published">Plos One, 20(3), e0318790.</span>
   </div>
   <span class="coauthors">Wei Lu, Daniel L. Chen (2025)</span>
-  <a class="paper-link" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318790" target="_blank">[PLOS ONE]</a>
+  <a class="paper-link" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318790" target="_blank">[Link]</a>
   <span class="paper-description"></span>
   <span class="media-mention">Media: <a href="https://www.washingtonpost.com/news/posteverything/wp/2018/07/10/kavanaugh-is-radically-conservative-heres-the-data-to-prove-it/" target="_blank">Washington Post</a></span>
 </div>
 
 ---
 
-## 🧪 Working Papers
+## Working Papers
 
 <div class="paper-entry">
   <div class="paper-header">
@@ -46,7 +46,7 @@ nav_order: 1
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Product Development and Platform Fees Design</strong>
-    <span class="tag tag-working">Revise and Resubmit at **Management Science**</span>
+    <span class="tag tag-working">Revise and Resubmit at <strong>Management Science</strong></span>
   </div>
   <span class="coauthors">Wei Lu, Avi Goldfarb, Nitin Mehta (2025)</span>
   <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617897" target="_blank">[Link]</a>
@@ -55,7 +55,7 @@ nav_order: 1
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Absent Ties and Product Diffusion: Evidence from Microtransactions</strong>
-    <span class="tag tag-rnr">Revise and Resubmit at **Journal of Marketing Research**</span>
+    <span class="tag tag-rnr">Revise and Resubmit at <strong>Journal of Marketing Research</strong></span>
   </div>
   <span class="coauthors">Daniel Goetz, Wei Lu (2025)</span>
   <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116806" target="_blank">[Link]</a>
@@ -66,7 +66,7 @@ nav_order: 1
 <div class="paper-entry">
   <div class="paper-header">
     <strong>The Rebound Effect of Forced Changes on Food Purchasing Behaviors and Nutrition Disparities Caused by the COVID-19 Pandemic</strong>
-    <span class="tag tag-rnr">Revise and Resubmit at **Nature Human Behaviour**</span>
+    <span class="tag tag-rnr">Revise and Resubmit at <strong>Nature Human Behaviour</strong></span>
   </div>
   <span class="coauthors">Guanlan Hu, Wei Lu, David Soberman, Mary L'Abbé (2025)</span>
   <span class="media-mention">Media: National Post</span>
@@ -75,7 +75,7 @@ nav_order: 1
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Evaluation Inflation: Consumers Give Higher Product Ratings on Transaction Sites than Non-transaction Sites</strong>
-    <span class="tag tag-rnr">Invited for Resubmission at **Journal of Marketing Research**</span>
+    <span class="tag tag-rnr">Invited for Resubmission at <strong>Journal of Marketing Research</strong></span>
   </div>
   <span class="coauthors">Zeng Ying, Claire I. Tsai, Wei Lu (2025)</span>
   <a class="paper-link" href="https://www.proquest.com/openview/815c030dc533d98ae3bf43e1eda0d906/1?cbl=30304&pq-origsite=gscholar" target="_blank">[Extended Abstract at Advances in Consumer Research]</a>
