@@ -17,10 +17,9 @@ nav_order: 1
   </div>
   <span class="coauthors">Wei Lu, Daniel L. Chen (2025)</span>
   <a class="paper-link" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318790" target="_blank">[Link]</a>
-  <span class="paper-description">Lu, W., & Chen, D. L. (2025). Motivated reasoning in the field: polarization of prose, precedent, and policy in US Circuit Courts, 1891–2013. Plos One, 20(3), e0318790.</span>
+  <span class="paper-description">Plos One, 20(3), e0318790.</span>
   <span class="media-mention">Media: <a href="https://www.washingtonpost.com/news/posteverything/wp/2018/07/10/kavanaugh-is-radically-conservative-heres-the-data-to-prove-it/" target="_blank">Washington Post</a></span>
 </div>
-
 ---
 
 ## Working Papers
