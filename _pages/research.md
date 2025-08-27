@@ -11,10 +11,15 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography %} -->
+## Published Articles
+{% bibliography --file papers --query @article %}
+
+## Working Papers
+{% bibliography --file papers --query @misc %}
 
 </div>
