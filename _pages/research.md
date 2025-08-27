@@ -7,19 +7,8 @@ nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-<!-- {% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %} -->
 ## Published Articles
-{% bibliography --file papers --query @article %}
+{% bibliography --file papers --query @article --group_by year --group_order descending %}
 
 ## Working Papers
-{% bibliography --file papers --query @misc %}
-
-</div>
+{% bibliography --file papers --query @misc --group_by year --group_order descending %}
