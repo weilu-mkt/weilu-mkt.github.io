@@ -29,4 +29,4 @@ Current projects examine:
 - How to design aligned large language model agents that act strategically in economic environments
 - …and related projects at the intersection of marketing, economics, and AI.
 
-View my latest [Curriculum Vitae](/assets/pdf/CV_20250704.pdf)
+View my latest [**Curriculum Vitae**](/assets/pdf/CV_20250704.pdf)
