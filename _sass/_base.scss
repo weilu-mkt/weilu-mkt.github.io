@@ -619,18 +619,18 @@ html.transition *:after {
 /* Use a sane column split on wider screens */
 @media (min-width: 576px) {
   .about .row { display: flex; align-items: flex-start; }
-  .profile { flex: 0 0 28%; max-width: 28%; margin-right: 2rem; }
+  .profile { flex: 0 0 28%; max-width: 28%; margin-right: 3rem; }
   .about .content { flex: 1 1 0%; min-width: 0; }
 }
 /* Nudge the whole right-hand column to the right (whatever its class is) */
 .about .profile + * {
-  padding-left: 1.25rem !important;   /* shift ALL text: paragraphs, bullets, links */
+  padding-left: 2rem !important;   /* shift ALL text: paragraphs, bullets, links */
 }
 
 /* Slight extra indent for lists, optional */
 .about .profile + * ul,
 .about .profile + * ol {
-  padding-left: 1.75rem !important;
+  padding-left: 2rem !important;
 }
 
 @media (min-width: 992px) {
