@@ -621,7 +621,7 @@ img.avatar,
   max-width: 100%;   /* allow responsiveness by default */
   height: auto;
   display: block;
-  margin: 0 auto;     /* centers the photo */
+  margin: 0;          /* remove centering */
   border-radius: 6px; /* optional */
 }
 
