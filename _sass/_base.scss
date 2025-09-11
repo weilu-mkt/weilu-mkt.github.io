@@ -613,3 +613,32 @@ html.transition *:after {
     }
   }
 }
+
+/* === Portrait size override (al-folio About/Home) === */
+.profile img,
+img.avatar,
+.profile .img-fluid {
+  max-width: 180px;   /* tweak this number: 160–220px usually looks good */
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;     /* centers the photo */
+  border-radius: 6px; /* optional */
+}
+
+/* Keep it roomy on phones; shrink on tablets/desktop */
+@media (min-width: 768px) {
+  .profile img,
+  img.avatar,
+  .profile .img-fluid {
+    max-width: 180px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .profile img,
+  img.avatar,
+  .profile .img-fluid {
+    max-width: 70vw;  /* mobile: still responsive */
+  }
+}
