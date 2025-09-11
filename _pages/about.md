@@ -18,7 +18,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor of Marketing at <a href='https://www.baruch.cuny.edu/'>Baruch College</a>, City University of New York (CUNY). I obtained a PhD in Marketing from the<a href='https://www.rotman.utoronto.ca/'>Rotman School of Management</a>, University of Toronto, and a Master's in Economic Theory and Econometrics from the <a href='https://www.tse-fr.eu/'>Toulouse School of Economics</a>.
+I am an Assistant Professor of Marketing at <a href='https://www.baruch.cuny.edu/'>Baruch College</a>, City University of New York (CUNY). I obtained a PhD in Marketing from the <a href='https://www.rotman.utoronto.ca/'>Rotman School of Management</a>, University of Toronto, and a Master's in Economic Theory and Econometrics from the <a href='https://www.tse-fr.eu/'>Toulouse School of Economics</a>.
 
 My research lies at the intersection of **digital marketing** and **platform economics**. I draw on methods from causal inference, structural modeling, and machine learning to address questions of both academic significance and real-world relevance. 
 
