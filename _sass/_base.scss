@@ -644,3 +644,13 @@ img.avatar,
     max-width: 70vw;  /* phone: responsive but not full-bleed */
   }
 }
+
+/* Indent bullets a bit more in the About page */
+.about ul,
+.about ol {
+  padding-left: 1.5rem;  /* default is ~1rem; bumping it */
+}
+
+.about li {
+  margin-left: 0.25rem;  /* fine-tune the gap between bullet and text */
+}
