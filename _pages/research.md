@@ -70,9 +70,12 @@ nav_order: 1
   <div class="paper-header">
     <strong>Evaluation Inflation: Consumers Give Higher Product Ratings on Transaction Sites than Non-transaction Sites</strong>
   </div>
-  <span class="coauthors">Zeng Ying, Claire I. Tsai, Wei Lu (2025)</span><span class="tag tag-rnr">Invited for Resubmission at Journal of Marketing Research</span>
+  <span class="coauthors">Zeng Ying, Claire I. Tsai, Wei Lu (2025)</span><span class="tag tag-rnr">Revising for 3rd round review at Journal of Marketing Research</span>
+  <a class="paper-link" href="https://papers.ssrn.com/abstract=5514778" target="_blank">[SSRN Link]</a>
   <a class="paper-link" href="https://www.proquest.com/openview/815c030dc533d98ae3bf43e1eda0d906/1?cbl=30304&pq-origsite=gscholar" target="_blank">[Extended Abstract at Advances in Consumer Research]</a>
 </div>
+
+
 
 <style>
 /* LIGHT MODE */
