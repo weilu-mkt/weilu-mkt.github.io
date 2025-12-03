@@ -36,14 +36,14 @@ nav_order: 1
   <div class="paper-header">
     <strong>Fair Match or Fun Match? Maximizing User Engagement Under Fairness Constraints in Online Gaming</strong>
   </div>
-  <span class="coauthors">Daniel Goetz, Wei Lu (2025)</span>
+  <span class="coauthors">Daniel Goetz, Wei Lu (2025)</span><span class="tag tag-rnr">Major Revision at Marketing Science</span>
 </div>
 
 <div class="paper-entry">
   <div class="paper-header">
     <strong>Product Development and Platform Fees Design</strong>
   </div>
-  <span class="coauthors">Wei Lu, Avi Goldfarb, Nitin Mehta (2025)</span><span class="tag tag-rnr">Revise and Resubmit at Management Science</span>
+  <span class="coauthors">Wei Lu, Avi Goldfarb, Nitin Mehta (2025)</span><span class="tag tag-rnr">Major Revision at Management Science</span>
   <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617897" target="_blank">[SSRN Link]</a>
 </div>
 
@@ -51,7 +51,7 @@ nav_order: 1
   <div class="paper-header">
     <strong>Absent Ties and Product Diffusion: Evidence from Microtransactions</strong>
   </div>
-  <span class="coauthors">Daniel Goetz, Wei Lu (2025)</span><span class="tag tag-rnr">Revise and Resubmit at Journal of Marketing Research</span>
+  <span class="coauthors">Daniel Goetz, Wei Lu (2025)</span><span class="tag tag-rnr">Risky Revision at Journal of Marketing Research</span>
   <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116806" target="_blank">[SSRN Link]</a>
   <a class="paper-link" href="https://dl.acm.org/doi/abs/10.1145/3490486.3538343" target="_blank">[Extended Abstract at EC '22]</a>
 </div>

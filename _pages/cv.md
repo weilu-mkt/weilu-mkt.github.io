@@ -1,8 +1,8 @@
 ---
 layout: none
-permalink: /assets/pdf/CV_20221109.pdf
+permalink: /assets/pdf/CV_20251203.pdf
 title: Curriculum Vitae
-nav: false
-nav_order: 4
-cv_pdf: CV_20221109.pdf
+nav: true
+nav_order: 2
+cv_pdf: CV_20251203.pdf
 ---
