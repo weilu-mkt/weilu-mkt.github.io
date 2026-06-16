@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 .DS_Store
 */.DS_Store
 .jekyll-cache
 _site/*
 _snap_md5.txt
+=======
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
+Gemfile.lock
+vendor
+
+>>>>>>> parent of 04558d3 (overhaul)
